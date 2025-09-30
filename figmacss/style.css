@@ -166,7 +166,7 @@
         .hero-content {
             flex: 1;
             min-width: 300px;
-            background-image: url('./figmaimage/man-bag.png');
+            background-image: url('../figmaimage/man-bag.png');
             background-size: cover;
             background-position: center;
             display: flex;
