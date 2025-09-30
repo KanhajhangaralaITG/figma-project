@@ -164,18 +164,18 @@
         }
 
         .hero-content {
-            flex: 1;
-            min-width: 300px;
-            background-image: url('../figmaimage/man-bag.png');
-            background-size: cover;
-            background-position: center;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            padding: 40px;
-            color: white;
-            position: relative;
-        }
+    flex: 1;
+    min-width: 300px;
+    background-image: url('../figmaimage/man-bag.png');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+    color: white;
+    position: relative;
+}
 
         .hero-content-image {
             content: '';
